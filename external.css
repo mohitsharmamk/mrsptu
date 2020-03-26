@@ -1,0 +1,64 @@
+.div
+{
+	padding-top: 10px;
+	background-color: #660000;
+	color: white;
+}
+.div1
+{
+   background-color:#992b00;
+   color: white;
+}
+
+.img
+{
+	width: 23px;
+	height: 23px;
+	
+	
+}
+.img1
+{
+	width: 140px;
+	height: 140px;
+}
+.p
+{
+  size: 10px;
+}
+.div2
+{
+	float: left;
+	padding-left: 10px;
+	margin:10px;
+
+}
+.div2a
+{
+	margin-left: 15px;
+}
+/*  nav bar menu */
+.mymenu{background:#660000; border-radius:0px; margin-bottom: 0px; }
+.mymenu .nav li a{color:#fff;}
+.mymenu .nav li a:hover{background-color: purple;}
+
+.divmod{float: left; border: 1px  solid #3a5897;}
+.divmod1{float: left; }
+.margin{margin-left: 30px; padding: 0px; }
+
+/* big image setting */
+.bigimg{width: 100%; height: 350px; }
+.bord{border:1px solid blue ; }
+.bgcolor{background-color: blue;}
+/* for division tag */
+.font{color: white; font-size: 25px; background:#660000;}
+.font1{color: white; font-size: 18px; background:#660000;}
+.button{size: 60px; }
+
+/* form file css */
+
+.form{background:#2691cf; border-radius:10px; margin-bottom: 0px; color: black;}
+.heading{background:#660000; border-radius:10px; margin-bottom: 0px; color:white; }
+
+ /* for academic page coding */
+ .pic{width: 100px; height: 100px;}

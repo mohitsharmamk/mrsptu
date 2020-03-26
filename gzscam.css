@@ -1,0 +1,18 @@
+.div1{padding-top: 5px;	background-color: #2a64a0; color: white; }
+.div1 a{padding-top: 10px;	background-color: #2a64a0; color: white; }
+.div2{background-color: white;  }
+.img{ width: 100px; height: 100px;	}
+/* for nav bar menu */
+
+.navbar{background:#2a64a0; border-radius:0px; margin-bottom: 0px; }
+.navbar .nav li a{color:#fff;}
+.navbar .nav li a:hover{background-color: purple;}
+
+/* for div three part code */
+.bord{ border: 1px solid #e9e9e9; margin-left: 27px; padding: 0px; }
+.bord1{  margin-left: 25px; padding: 0px; }
+.font{ font-size: 17px; }
+.font1{ font-size: 25px; }
+.divpart{ background-color:#2a64a0; color: white; }
+.img3{ width: 511px; height: 350px; }
+.align{ text-align: center; }

@@ -1,0 +1,21 @@
+.body{background-color: #06213f;}
+
+/* for image css */
+.div1{ float: left; padding-left: 15px; margin: 5px; color: white;}
+img{width: 100px; height: 100px;}
+
+.mymenu{background:#ffffff; border-radius:5px; margin-bottom: 0px; }
+.mymenu .nav li a{color:black; }
+.mymenu .nav li a:hover{background-color: #6678b1;}
+
+/* for second img */
+.img1{ width: 100%; height:300px ;  padding: 10px;}
+.imgdiv{background-color:white; border-radius:3px; margin-bottom: 0px;
+         }
+
+
+/* for login div */
+
+.login{background-color:#f1f1f1; border-radius:3px; margin-bottom: 0px; 
+       }
+       .hrcolor{color: red;}
